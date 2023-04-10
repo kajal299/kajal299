@@ -33,12 +33,12 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Data Sc
 
 - ❤️ [Developer](https://github.com/aman9113) by passion. 
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
-- 🌱 I’m currently learning more about Cyber Security,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
+- 🌱 I’m currently learning more about Data Scientist,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
-- 😄 Pronouns: He/His    
+- 😄 Pronouns: He/She   
 - ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
            
  
@@ -74,7 +74,7 @@ https://aman9113.github.io/portfolio_website/)
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b>Dell Monterey 12.0.1</li>
-	    <li><b>Laptop: </b> Dell Inspiron 15 3000</li>
+	    <li><b>Laptop: </b> Dell Inspiron 15 5000</li>
   	    <li><b>Browser: </b>Chrome & Browser</li>
 	    <li><b>Code Editor:</b> VSCode , Xcode ❤
  </li>
