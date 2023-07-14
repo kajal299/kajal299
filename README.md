@@ -7,43 +7,40 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Data Sc
 </a>
 
 
-<a href="https://twitter.com/Aaman0008">
-  <img align="left" alt="Aaman0008's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/jhak92160">
+  <img align="left" alt="Kajal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aman-singh-484549202/">
-  <img align="left" alt="Aman Singh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kajal-kumari-203371248/">
+  <img align="left" alt="Kajal Kumari's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/aman9113/">
-  <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/kajal299">
+  <img align="left" alt="kajal299's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/__amansingh__0008/">
   <img align="left" alt="Aman Singh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/amansingh.socialist/">
-  <img align="left" alt="Aman Singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/profile.php?id=100040742798116">
+  <img align="left" alt="Kajal Jha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-<a href="https://www.hackerrank.com/amansinghajay222">
-  <img align="left" alt="Aman Singh's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 	
 
 <br/>
 <br/>
 
 
-- ❤️ [Developer](https://github.com/aman9113) by passion. 
+- ❤️ [Developer](https://github.com/kajal299) by passion. 
 - 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
-- 🌱 I’m currently learning more about Data Scientist,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
+- 🌱 I’m currently learning more about Data Scientist,UI-UX Designer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 🤔 I’m looking for help with Room Care's.
 - 💬 Ask me about Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
+- 📫 How to reach me: [Twitter - @Kajal Kumari](https://twitter.com/jhak92160) , [LinkidIn- @Kajal Kumari](https://www.linkedin.com/in/kajal-kumari-203371248/) , [leetcode-@Kajal Kumari](https://leetcode.com/aman9113/)
 - 😄 Pronouns: He/She   
-- ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
+- ⚡ Fun fact: I spend almost 6-8 hours watching reels & Music everyday.        
            
  
-[![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
-[![Linkedin: AmanSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-484549202//)]
+[![Twitter: Kajal kumari](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
+[![Linkedin: Kajal kumari](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-484549202//)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
@@ -85,7 +82,7 @@ https://aman9113.github.io/portfolio_website/)
 <div align="centre">
 	
 
-# Show some ❤ by starring some of the repositories!
+# Show some ❤❤ by starring some of the repositories!
 
 
 
