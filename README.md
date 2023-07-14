@@ -39,12 +39,12 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Data Sc
 - ⚡ Fun fact: I spend almost 6-8 hours watching reels & Music everyday.        
            
  
-[![Twitter: Kajal kumari](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
-[![Linkedin: Kajal kumari](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kajal-kumari-203371248/)]
+[![Twitter: Kajal kumari](https://img.shields.io/twitter/follow/KajalKumari?style=social)](https://twitter.com/Kajal)
+[![Linkedin: Kajal kumari](https://img.shields.io/badge/-kajalkumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kajal-kumari-203371248/)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__kaajal__22/) 
-[![GitHub kajal299](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/kajal299)
-[![GitHub kajal299](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/kajal299)
-[![website](https://img.shields.io/badge/Portfolio-aman.tech-2648ff?style=flat-square&logo=google-chrome)](
+[![GitHub kajal299](https://img.shields.io/github/followers/kajal299?label=follow&style=social)](https://github.com/kajal299)
+[![GitHub kajal299](https://img.shields.io/github/followers/kajal299?label=follow&style=social)](https://github.com/kajal299)
+[![website](https://img.shields.io/badge/Portfolio-kajal.tech-2648ff?style=flat-square&logo=google-chrome)](
 https://github.com/kajal299) 
 **Languages and Tools:**  
 
@@ -55,16 +55,16 @@ https://github.com/kajal299)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-<a href="https://github.com/aman9113">
-<img height="114em"src="https://github-readme-stats.vercel.app/api?username=aman9113&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/kajal299">
+<img height="114em"src="https://github-readme-stats.vercel.app/api?username=kajal299&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aman9113&layout=compact&langs_count=6&theme=algolia"/>
-<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman9113&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajal299&layout=compact&langs_count=6&theme=algolia"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal299&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
 ## 💳 Github Profile Summary Card
 <p align="fitscreen">
-  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
+  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajal299&theme=vue"/>
 </p>
 
 
